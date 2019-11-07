@@ -5,5 +5,3 @@ Spring boot provide some useful application event when it try to start the appli
 3. ApplicationPreparedEvent
 4. ApplicationReadyEvent
 5.ApplicationFailedEvent
-
-For details look at the spring docs.
